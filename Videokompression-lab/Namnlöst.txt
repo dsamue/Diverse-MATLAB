@@ -1,0 +1,11 @@
+för pro3
+
+Vi behöver inte söka för bilderna i hörnen
+
+motion vector ska vara en vector i förhållande till orginalpositionen.
+
+searchwindow behöver inte vara större än typ 3-4 pixels i varje riktning. 
+
+Vi behöver inte fundera på att bilden har fel size. Det går jämnt ut med 8
+
+reverseblock ska returnera reconstructed patch
